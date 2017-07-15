@@ -1,0 +1,10 @@
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\bin\Release\GTAVMapConverter.exe.config
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\bin\Release\GTAVMapConverter.exe
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\bin\Release\GTAVMapConverter.pdb
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.csprojResolveAssemblyReference.cache
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.ConvertSettings.resources
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.Form1.resources
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.Properties.Resources.resources
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.csproj.GenerateResource.Cache
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.exe
+C:\Users\liran\Documents\Visual Studio 2017\Projects\GTAVMapConverter\GTAVMapConverter\obj\Release\GTAVMapConverter.pdb
