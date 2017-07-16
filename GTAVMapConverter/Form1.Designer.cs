@@ -34,6 +34,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -92,12 +93,24 @@
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Convert to GTA:Network C# Code",
-            "Convert to GTA:Network XML Map File"});
-            this.comboBox1.Location = new System.Drawing.Point(12, 450);
+            "Convert to GT-MP C# Code",
+            "Convert to GT-MP XML Map File"});
+            this.comboBox1.Location = new System.Drawing.Point(263, 450);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(491, 21);
+            this.comboBox1.Size = new System.Drawing.Size(240, 21);
             this.comboBox1.TabIndex = 5;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "Auto-Detect",
+            "Guadmaz Map Editor",
+            "Menyoo Object Spooner"});
+            this.comboBox2.Location = new System.Drawing.Point(15, 450);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(242, 21);
+            this.comboBox2.TabIndex = 6;
             // 
             // Form1
             // 
@@ -105,6 +118,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(1044, 496);
+            this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -128,6 +142,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBox2;
     }
 }
 
